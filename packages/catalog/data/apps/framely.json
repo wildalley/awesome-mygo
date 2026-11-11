@@ -1,0 +1,26 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "framely",
+	"name": "Framely · 取景",
+	"author": "wildalley",
+	"kind": "native",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"category": "UtilitiesApplication",
+	"group": "system",
+	"url": "https://github.com/wildalley/screenpin",
+	"repo": "wildalley/screenpin",
+	"summary": {
+		"en": "A native screenshot, annotation and pinning app with offline OCR.",
+		"zh-CN": "原生截图、标注与贴图工具，内置离线文字识别。"
+	},
+	"description": {
+		"en": "Capture a region, annotate it, pin it above other windows, or recognize text locally. Scrolling screenshots are available on Windows and Linux; region recording and GIF export are included in the latest source preview.",
+		"zh-CN": "框选截图、标注并置顶贴图，或在本机识别文字。Windows/Linux 支持滚动长截图；最新源码预览还包含区域录屏与 GIF 导出。"
+	},
+	"screenshot": "framely.svg",
+	"added": "2026-11-11T09:46:08Z"
+}
